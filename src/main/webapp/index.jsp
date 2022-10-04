@@ -4,7 +4,7 @@
   
   <h1> Software Training Institute </h1>
   
-  <h2> Contact Us for more infomation </h1>
+  <h2> Contact Us for more infomation at Noida</h1>
   
 </body>
 </html>
