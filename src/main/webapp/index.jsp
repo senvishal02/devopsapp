@@ -1,10 +1,10 @@
 <html>
 <body>
-<h1><font color='red'>Welcome to Devops Class..!!<font></h1>
+<h1><font color='red'>Stellar Informatics Private Limited<font></h1>
   
-  <h1> Software Training Institute </h1>
+  <h1> C.B.S. software as a vendor </h1>
   
-  <h2> Contact Us for more infomation at Noida</h1>
+  <h2> Contact Us </h1>
   
 </body>
 </html>
