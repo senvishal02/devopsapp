@@ -4,7 +4,7 @@
   
   <h1> Provides technology training </h1>
   
-  <h2> Contact Us for more information :: Location Sector 15, Noida </h1>
+  <h2> Contact Us for more information :: Location Sector 15, Noida, India</h1>
   
 </body>
 </html>
